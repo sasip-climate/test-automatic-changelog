@@ -11,6 +11,7 @@ For more informations on the releases and following : https://github.com/Ic3fr0g
   - download the scripts in https://github.com/Ic3fr0g/autochangelog-hook/tree/master/git/hooks
   - put them in the .git/hooks of your repo
   - modify https://github.com/Ic3fr0g/autochangelog-hook/blob/master/git/hooks/run_changelog.sh so it fits your need
-  - it will automatically generate the changelog when a merge is done on the main branch ?
+  - a [new CHANGELOG](https://github.com/sasip-climate/test-automatic-changelog/blob/main/CHANGELOG_append.md) is generated with more informations for the releases
+  - it will then automatically generate the changelog when a merge is done on the main branch ?
 
 
